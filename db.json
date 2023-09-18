@@ -1,0 +1,92 @@
+{
+    "produkt": [
+        {
+            "id": 1,
+            "name": "classic cd",
+            "price": 
+                {
+                "normal price": "271.5",
+                "discaont": "220.6"
+                },
+            "image src": "/asset/img/Produktbilleder/cd_afspillere/creek_classic_cd.jpg",
+            "type": "CD afspiller",
+            "brand": "creek",
+            "instock": true
+        },{
+            "id": 2,
+            "name": "destiny cd",
+            "price": 
+                {
+                "normal price": "993.4",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/cd_afspillere/creek_Destiny_cd.jpg",
+            "type": "CD afspiller",
+            "brand": "creek",
+            "instock": true
+        },{
+            "id": 3,
+            "name": "evo cd",
+            "price": 
+                {
+                "normal price": "893.3",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/cd_afspillere/creek_evo_cd.jpg",
+            "type": "CD afspiller",
+            "brand": "creek",
+            "instock": true
+        },{
+            "id": 4,
+            "name": "exp 2010S cd",
+            "price": 
+                {
+                "normal price": "374.8",
+                "discaont": "313.7"
+                },
+            "image src": "/asset/img/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif",
+            "type": "CD afspiller",
+            "brand": "exposure",
+            "instock": true
+        }
+    ],
+    "brand": [
+        {
+            "id": 1,
+            "name": "creek",
+            "logo": "/asset/img/logos/creek.png"
+        },{
+            "id": 2,
+            "name": "exposure",
+            "logo": "/asset/img/logos/exposure.png"
+        },{
+            "id": 3,
+            "name": "parasound",
+            "logo": "/asset/img/logos/parasound.png"
+        },{
+            "id": 4,
+            "name": "manley",
+            "logo": "/asset/img/logos/manley.png"
+        },{
+            "id": 5,
+            "name": "pro-ject",
+            "logo": "/asset/img/logos/pro-ject.png"
+        },{
+            "id": 6,
+            "name": "boesendorfer",
+            "logo": "/asset/img/logos/boesendorfer.png"
+        },{
+            "id": 7,
+            "name": "epos",
+            "logo": "/asset/img/logos/epos.png"
+        },{
+            "id": 8,
+            "name": "harbeth",
+            "logo": "/asset/img/logos/harbeth.png"
+        },{
+            "id": 9,
+            "name": "jolida",
+            "logo": "/asset/img/logos/jolida.png"
+        }
+    ]
+}
