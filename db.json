@@ -50,7 +50,7 @@
             "instock": true
         }
     ],
-    "brand": [
+    "brands": [
         {
             "id": 1,
             "name": "creek",
