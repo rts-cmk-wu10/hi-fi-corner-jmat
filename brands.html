@@ -4,92 +4,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script defer src="https://kit.fontawesome.com/c4c7200c26.js" crossorigin="anonymous"></script>
     <title>HI-FI corner</title>
-    <link rel="stylesheet" href="brands.css">
+
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- scripts -->
+    <script defer src="https://kit.fontawesome.com/c4c7200c26.js" crossorigin="anonymous"></script>
 
 </head>
 
-<body>
+<body class="brandsPage">
     
-        <header>
-            <ul class="submenu">
-                <li class="menu_item menu__item--first"><a href="/"><i class="fa-light fa-location-dot"></i></a>
-                </li>
-                <li class="menu__item menu__item--first"><a href="/"><i class="fa-regular fa-phone"></i></a></li>
-                <li class="menu__item menu__item--first"><a href="/"><i
-                            class="fa-sharp fa-regular fa-envelope"></i></a></li>
-            </ul>
-            <nav class="menu">
-                <li class="menu__item"> <a class="menu__link" href="index.html">HOME</a></li>
-                <li class="menu__item"> <a class="menu__link" href="index.html">ABOUT US</a></li>
-                <li class="menu__item"> <a class="menu__link" href="index.html">BRANDS</a></li>
-                <li class="menu__item"> <a class="menu__link" href="index.html">BLOG</a></li>
-                <li class="menu__item"> <a class="menu__link" href="index.html">EVENTS</a></li>
-                <li class="menu__item"> <a class="menu__link" href="index.html">SHOP</a></li>
-                <li class="menu__item"> <a class="menu__link" href="index.html">CONTACT US</a></li>
-            </nav>
-        </header>
-        <main>
-            <div class="hero">
-                <img src="/" alt="/">
-                <div class="hero_ptag">
+    <header class="menu">
+
+        <ul class="menu__top">
+            <li><a class="menu__top--item" href="/"><i class="fa-light fa-location-dot"></i></a></li>
+            <li><a class="menu__top--item" href="/"><i class="fa-regular fa-phone"></i></a></li>
+            <li><a class="menu__top--item" href="/"><i class="fa-sharp fa-regular fa-envelope"></i></a></li>
+        </ul>
+
+        <nav class="menu__nav">
+            <li> <a class="menu__nav--link" href="/">home</a></li>
+            <li> <a class="menu__nav--link" href="/">about us</a></li>
+            <li> <a class="menu__nav--link activPage" href="/">brands</a></li>
+            <li> <a class="menu__nav--link" href="/">blog</a></li>
+            <li> <a class="menu__nav--link" href="/">events</a></li>
+            <li> <a class="menu__nav--link" href="/">shop</a></li>
+            <li"> <a class="menu__nav--link" href="/">contact us</a></li>
+        </nav>
+
+    </header>
+
+    <main>
+
+        <section class="hero">
+            <div class="hero__icon">
+                <div class="hero__icon--box">
                     <p>hi</p>
                     <p>fi</p>
                 </div>
-                <h1 class="brands_heading">TOP BRANDS</h1>
+                <p>hificorner.co.uk</p>
             </div>
+            <h1 class="brands_heading">top brands</h1>
+        </section>
+
+        <section class="brands">
+
             <section class="brands_list">
                 <p>Here are just a few of the brands we stock:</p>
                 <div class="gallery">
                     <div class="gallery__logo gallery__item--1"><img src="assets/img/logos/bösendorfer.png" alt="bösendorfer"></div>
                     <div class="gallery__logo gallery__item--2"><img src="assets/img/logos/creek.png" alt="creek"></div>
                     <div class="gallery__logo gallery__item--3"><img src="assets/img/logos/epos.png" alt="epos"></div> 
-                    <div c></div>
-            
-
             </section>
+
             <section class="brands_grid">
-                <p>as an independent retailer of hoome audio and visual products,we are able to select the very best
-                    brands and manufacturers from across the world</p>
-                <p>not only do we have the best known brands such as b&w, devialet,kef,naim,and linn;we also stock and
-                    well versified with smaller autonomous companies like michell engineering,neat acoustics,haebeth,sme
-                    trichord research,primaluna,to name but a few</p>
-                <p>with over a hundred brands we can happily say that if a brand meets our high standards for sound
-                    reproduction,then you can be assured to find it at hi-fi corner.</p>
+
+                <h2>brands</h2>
+
+                <p>as an independent retailer of hoome audio and visual products,we are able to select the very best brands and manufacturers from across the world</p>
+
+                <p>not only do we have the best known brands such as b&w, devialet,kef,naim,and linn;we also stock and well versified with smaller autonomous companies like michell engineering,neat acoustics,haebeth,sme trichord research,primaluna,to name but a few</p>
+
+                <p>with over a hundred brands we can happily say that if a brand meets our high standards for sound reproduction,then you can be assured to find it at hi-fi corner.</p>
+
                 <a href="/">visit our shop to find more brands></a>
+                
             </section>
 
+        </section>
 
+    </main>
 
+    <footer>
 
+        <ul class="footer__menu">
+            <li>hi-fi corner</li>
+            <li>edinburgh 2 joppa road eh15 2eu</li>
+            <li>falkirk 44 cow wynd fk1 1pu</li>
+        </ul>
 
-        </main>
-        <footer>
-            <ul class="footermenu">
-                <li>hi-fi corner</li>
-                <li>edinburgh 2 joppa road eh15 2eu</li>
-                <li>Ffalkirk 44 cow wynd fk1 1pu</li>
-            </ul>
-            <div class="footer_bg">
-                <a href="index.html">returns & refunds</a>|<a href="index.html">Privacy Policy</a>
-            </div>
-            <ul class="footermenu__item">
-                <li></li>
-                <li><i class="fa-brands fa-cc-visa"></i></li>
-                <li></li>
-                <li></li>
-                <li><i class="fa-brands fa-cc-jcb"></i></li>
-                <li><i class="fa-brands fa-cc-paypal"></i></li>
-            </ul>
-            <ul class="footermenu_icon">
-                <li><i class="fa-brands fa-facebook"></i></li>
-                <li><i class="fa-brands fa-youtube"></i></li>
-                <li><i class="fa-brands fa-square-twitter"></i></li>
-                <li><i class="fa-brands fa-instagram"></i></li>
+        <div class="footer_links">
+            <a href="index.html">returns & refunds</a>|<a href="index.html">Privacy Policy</a>
+        </div>
 
-            </ul>
-        </footer>
+        <ul class="footer__payments">
+            <li></li>
+            <li><i class="fa-brands fa-cc-visa"></i></li>
+            <li></li>
+            <li></li>
+            <li><i class="fa-brands fa-cc-jcb"></i></li>
+            <li><i class="fa-brands fa-cc-paypal"></i></li>
+        </ul>
+
+        <ul class="footer__media">
+            <li><i class="fa-brands fa-facebook"></i></li>
+            <li><i class="fa-brands fa-youtube"></i></li>
+            <li><i class="fa-brands fa-square-twitter"></i></li>
+            <li><i class="fa-brands fa-instagram"></i></li>
+        </ul>
+
+    </footer>
    
 </body>
 
