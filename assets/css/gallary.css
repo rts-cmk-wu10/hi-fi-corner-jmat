@@ -1,18 +1,16 @@
-body {
-  background-color: black;
-}
-
 .gallery {
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: auto auto auto auto;
+
   max-width: 60%;
   margin: 0 auto;
 }
 
 .gallery__item {
-  position: relative;
   height: 155px;
+
+  position: relative;
 }
 
 .gallery__img {
@@ -23,14 +21,17 @@ body {
 }
 
 .gallery__item a {
-  position: absolute;
   margin-left: auto;
   margin-right: auto;
+  
+  transform: translateY(-50%);
+  text-align: center;
+  text-transform: uppercase;
+  
+  position: absolute;
   left: 0;
   right: 0;
   top: 50%;
-  transform: translateY(-50%);
-  text-align: center;
 }
 
 /* GALLERY ITEMS */

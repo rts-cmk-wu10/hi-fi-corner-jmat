@@ -1,0 +1,55 @@
+.menu {
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+}
+
+.menu__top{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1.5rem;
+   
+    padding: 1rem 1.5rem;
+    background-color: #222222aa;
+    
+    list-style: none;
+    color: azure;
+}
+
+.menu__top--item{
+    color: antiquewhite;
+}
+
+.menu__top--button{
+    color: aqua;
+    text-transform: capitalize;
+}
+
+.menu__nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    
+    width: auto;
+    padding: 1rem;
+    background-color: #131212;
+    
+    list-style: none;
+}
+
+.menu__nav--link{
+    color: aliceblue;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.menu__nav--link:active{
+    color: inherit;
+}
+
+.activPage{
+    color: goldenrod;
+}
+
