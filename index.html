@@ -4,96 +4,107 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script defer src="https://kit.fontawesome.com/c4c7200c26.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="index.css">
     <title>HI-FI corner</title>
+    
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- scripts -->
+    <script defer src="https://kit.fontawesome.com/c4c7200c26.js" crossorigin="anonymous"></script>
 
 </head>
 
-<body>
-    <div class="wrapper">
-        <header>
-                <ul class="menu_frist">
-                    <li><a class="menu__item" href="/"><i class="fa-light fa-location-dot"></i></a>
-                    </li>
-                    <li><a class="menu__item" href="/"><i class="fa-regular fa-phone"></i></a></li>
-                    <li><a class="menu__item" href="/"><i
-                                class="fa-sharp fa-regular fa-envelope"></i></a></li>
+<body class="fontPage">
+        
+    <header class="menu">
 
-                    <li> <button class="blue"><i
-                                class="fa-regular fa-envelope"></i>Subscribe</button></li>
-                </ul>
-                <nav class="menu">
-                    <li> <a class="menu__link activ" href="/">HOME</a></li>
-                    <li> <a class="menu__link" href="/">ABOUT US</a></li>
-                    <li> <a class="menu__link" href="/">BRANDS</a></li>
-                    <li> <a class="menu__link" href="/">BLOG</a></li>
-                    <li> <a class="menu__link" href="/">EVENTS</a></li>
-                    <li> <a class="menu__link" href="/">SHOP</a></li>
-                    <li"> <a class="menu__link" href="/">CONTACT US</a></li>
-                </nav>
-        </header>
-        <main>
-            <div class="hero">
-               <!-- <img src="assets/img/background-img/Hi-Fi_logo.png" alt="" srcset=""> -->
-                <div class="hero_ptag">
-                   
+            <ul class="menu__top">
+                <li><a class="menu__top--item" href="/"><i class="fa-light fa-location-dot"></i></a></li>
+                <li><a class="menu__top--item" href="/"><i class="fa-regular fa-phone"></i></a></li>
+                <li><a class="menu__top--item" href="/"><i class="fa-sharp fa-regular fa-envelope"></i></a></li>
+                <li><button class="menu__top--button"><i class="fa-regular fa-envelope"></i>subscribe</button></li>
+            </ul>
+
+            <nav class="menu__nav">
+                <li> <a class="menu__nav--link activPage" href="/">home</a></li>
+                <li> <a class="menu__nav--link" href="/">about us</a></li>
+                <li> <a class="menu__nav--link" href="/">brands</a></li>
+                <li> <a class="menu__nav--link" href="/">blog</a></li>
+                <li> <a class="menu__nav--link" href="/">events</a></li>
+                <li> <a class="menu__nav--link" href="/">shop</a></li>
+                <li"> <a class="menu__nav--link" href="/">contact us</a></li>
+            </nav>
+
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero__icon">
+                <div class="hero__icon--box">
+                    <p>hi</p>
+                    <p>fi</p>
                 </div>
-               
+                <p>hificorner.co.uk</p>
             </div>
-            <section class="showroom">
+            <div class="hero__news">
                 <p>our edinburgh showroom has now moved to stunning new premises on joppa road</p>
-            </section>
-            <section class="slider">
+            </div>
+        </section>
 
-            </section>
-            <section class="main_icon">
-                <div class="facebook">
-                    <img src="/" alt="/">
-                    <img src="/" alt="/">
-                    <img src="/" alt="/">
-                </div>
-                <div class="history">
-                    <p>estsblished in the late 1960s, our family owned business is based in edinburgh and
-                        falkirk,servicing customers across the uk.</p>
-                </div>
-                <div class="news">
-                    <p>check out our latest news stories for all the up to date hi-fi corner products and launches.</p>
-                </div>
-                <div class="shop">
-                    <p>have a look in our online shop for great products and deals.</p>
-                </div>
+        <section class="slider"></section>
 
-            </section>
+        <section class="socialMedia">
+            <img src="/" alt="/">
+            <img src="/" alt="/">
+            <img src="/" alt="/">
+        </section>
+        
+        <section class="cardContainer">
+            <article class="card">
+                <h1>history</h1>
+                <p>estsblished in the late 1960s, our family owned business is based in edinburgh and falkirk,servicing customers across the uk.</p>
+            </article>
+            <article class="card">
+                <h1>news</h1>
+                <p>check out our latest news stories for all the up to date hi-fi corner products and launches.</p>
+            </article>
+            <article class="card">
+                <h1>shop</h1>
+                <p>have a look in our online shop for great products and deals.</p>
+            </article>
+        </section>
 
+    </main>
 
-        </main>
-<footer>
-    <ul class="footermenu">
-        <li>hi-fi corner</li>
-        <li>edinburgh 2 joppa road eh15 2eu</li>
-        <li>falkirk 44 cow wynd fk1 1pu</li>
-    </ul>
-    <div class="footer_bg">
-        <a href="index.html">returns & refunds</a>|<a href="index.html">Privacy Policy</a>
-    </div>
-    <ul class="footermenu__item">
-        <li></li>
-        <li><i class="fa-brands fa-cc-visa"></i></li>
-        <li></li>
-        <li></li>
-        <li><i class="fa-brands fa-cc-jcb"></i></li>
-        <li><i class="fa-brands fa-cc-paypal"></i></li>
-    </ul>
-    <ul class="footermenu_icon">
-        <li><i class="fa-brands fa-facebook"></i></li>
-        <li><i class="fa-brands fa-youtube"></i></li>
-        <li><i class="fa-brands fa-square-twitter"></i></li>
-        <li><i class="fa-brands fa-instagram"></i></li>
+    <footer>
 
-    </ul>
-</footer>
-    </div>
+        <ul class="footer__menu">
+            <li>hi-fi corner</li>
+            <li>edinburgh 2 joppa road eh15 2eu</li>
+            <li>falkirk 44 cow wynd fk1 1pu</li>
+        </ul>
+
+        <div class="footer_links">
+            <a href="index.html">returns & refunds</a>|<a href="index.html">Privacy Policy</a>
+        </div>
+
+        <ul class="footer__payments">
+            <li></li>
+            <li><i class="fa-brands fa-cc-visa"></i></li>
+            <li></li>
+            <li></li>
+            <li><i class="fa-brands fa-cc-jcb"></i></li>
+            <li><i class="fa-brands fa-cc-paypal"></i></li>
+        </ul>
+
+        <ul class="footer__media">
+            <li><i class="fa-brands fa-facebook"></i></li>
+            <li><i class="fa-brands fa-youtube"></i></li>
+            <li><i class="fa-brands fa-square-twitter"></i></li>
+            <li><i class="fa-brands fa-instagram"></i></li>
+        </ul>
+
+    </footer>
 
 </body>
 
