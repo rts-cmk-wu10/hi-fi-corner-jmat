@@ -1,0 +1,1458 @@
+{
+    "produkt": [
+        {
+            "id": 1,
+            "name": "creek classic cd",
+            "price": 
+                {
+                "normal_price": "271.5",
+                "discaont": "220.6"
+                },
+            "image_src": "/asset/img/Produktbilleder/cd_afspillere/creek_classic_cd.jpg",
+            "type": "CD afspiller",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 2,
+            "name": "creek destiny cd",
+            "price": 
+                {
+                "normal price": "993.4",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/cd_afspillere/creek_Destiny_CD.jpg",
+            "type": "CD afspiller",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 3,
+            "name": "creek evo cd",
+            "price": 
+                {
+                "normal price": "893.3",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/cd_afspillere/creek_evo_cd.jpg",
+            "type": "CD afspiller",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 4,
+            "name": "exp 2010S cd",
+            "price": 
+                {
+                "normal price": "374.8",
+                "discaont": "313.7"
+                },
+            "image src": "/asset/img/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif",
+            "type": "CD afspiller",
+            "brand": 
+                {
+                "name": "exposure",
+                "manufacturer_link": "https://exposurehifi.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 5,
+            "name": "creek classic",
+            "price": 
+                {
+                "normal price": "102.4",
+                "discaont": "69.0"
+                },
+            "image src": "/asset/img/Produktbilleder/dvdafspillere/creek_classic.jpg",
+            "type": "DVD afspiller",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 6,
+            "name": "exposure 2010S",
+            "price": 
+                {
+                "normal price": "837.5",
+                "discaont": "724.9"
+                },
+            "image src": "/asset/img/Produktbilleder/dvdafspillere/exposure_2010S.jpg",
+            "type": "DVD afspiller",
+            "brand": 
+                {
+                "name": "exposure",
+                "manufacturer_link": "https://exposurehifi.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 7,
+            "name": "parasound d200",
+            "price": 
+                {
+                "normal price": "656.2",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/dvdafspillere/parasound_d200.jpg",
+            "type": "DVD afspiller",
+            "brand": 
+                {
+                "name": "parasound",
+                "manufacturer_link": "https://parasound.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 8,
+            "name": "parasound halod3",
+            "price": 
+                {
+                "normal price": "373.7",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/dvdafspillere/parasound_halod3.jpg",
+            "type": "DVD afspiller",
+            "brand": 
+                {
+                "name": "parasound",
+                "manufacturer_link": "https://parasound.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 9,
+            "name": "manley mahi",
+            "price": 
+                {
+                "normal price": "167.6",
+                "discaont": "126.3"
+                },
+            "image src": "/asset/img/Produktbilleder/effektforstaerkere/manley_mahi.jpg",
+            "type": "effektforskærkere",
+            "brand": 
+                {
+                "name": "manley",
+                "manufacturer_link": "https://www.manley.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 10,
+            "name": "manley neoclassic 300b",
+            "price": 
+                {
+                "normal price": "881.9",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/effektforstaerkere/manley_neoclassic300b.jpg",
+            "type": "effektforskærkere",
+            "brand": 
+                {
+                "name": "manley",
+                "manufacturer_link": "https://www.manley.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 11,
+            "name": "manley snapper",
+            "price": 
+                {
+                "normal price": "364.3",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/effektforstaerkere/manley_snapper.jpg",
+            "type": "effektforskærkere",
+            "brand": 
+                {
+                "name": "manley",
+                "manufacturer_link": "https://www.manley.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 12,
+            "name": "parasound haloa 23",
+            "price": 
+                {
+                "normal price": "839.7",
+                "discaont": ""
+                },
+            "image src": "/asset/img/Produktbilleder/effektforstaerkere/parasound_haloa23.jpg",
+            "type": "effektforskærkere",
+            "brand": 
+                {
+                "name": "parasound",
+                "manufacturer_link": "https://parasound.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 13,
+            "name": "creek OBH 22 passive preamp",
+            "price": 
+                {
+                "normal_price": "345.0",
+                "discaont": "142.0"
+                },
+            "image_src": "/asset/img/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
+            "type": "forstærker",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 14,
+            "name": "parasound classic 7100",
+            "price": 
+                {
+                "normal_price": "884.0",
+                "discaont": "636.3"
+                },
+            "image_src": "/asset/img/Produktbilleder/forforstaerkere/parasound_classic7100.jpg",
+            "type": "forstærker",
+            "brand": 
+                {
+                "name": "parasound",
+                "manufacturer_link": "https://parasound.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 15,
+            "name": "parasound halop3",
+            "price": 
+                {
+                "normal_price": "9962.3",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
+            "type": "forstærker",
+            "brand": 
+                {
+                "name": "parasound",
+                "manufacturer_link": "https://parasound.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 16,
+            "name": "pro-ject prebox",
+            "price": 
+                {
+                "normal_price": "1924.7",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/forforstaerkere/Project_prebox.jpg",
+            "type": "forstærker",
+            "brand": 
+                {
+                "name": "pro-ject",
+                "manufacturer_link": "https://www.project-audio.com/en/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 17,
+            "name": "boesendorfer vcs wall",
+            "price": 
+                {
+                "normal_price": "4429.8",
+                "discaont": "3169.8"
+                },
+            "image_src": "/asset/img/Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif",
+            "type": "højtalere",
+            "brand": 
+                {
+                "name": "boesendorfer",
+                "manufacturer_link": "https://www.boesendorfer.com/en"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 18,
+            "name": "epos m5",
+            "price": 
+                {
+                "normal_price": "93501",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/hojtalere/epos_m5.gif",
+            "type": "højtalere",
+            "brand": 
+                {
+                "name": "epos",
+                "manufacturer_link": "https://www.eposaudio.com/en/dk"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 19,
+            "name": "harbeth hl7es2",
+            "price": 
+                {
+                "normal_price": "1635.7",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/hojtalere/harbeth_hl7es2.jpg",
+            "type": "højtalere",
+            "brand": 
+                {
+                "name": "harbeth",
+                "manufacturer_link": "https://harbeth.co.uk/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no" 
+        },{
+            "id": 20,
+            "name": "harbeth monitor 30",
+            "price": 
+                {
+                "normal_price": "8390.7",
+                "discaont": "8020.2"
+                },
+            "image_src": "/asset/img/Produktbilleder/hojtalere/harbeth_monitor30.jpg",
+            "type": "højtalere",
+            "brand": 
+                {
+                "name": "harbeth",
+                "manufacturer_link": "https://harbeth.co.uk/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 21,
+            "name": "harbeth p3es2",
+            "price": 
+                {
+                "normal_price": "63163",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/hojtalere/harbeth_p3es2.jpg",
+            "type": "højtalere",
+            "brand": 
+                {
+                "name": "harbeth",
+                "manufacturer_link": "https://harbeth.co.uk/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 22,
+            "name": "creek a50l",
+            "price": 
+                {
+                "normal_price": "3228.9",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/creek_a50l.jpg",
+            "type": "int forstærkere",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 23,
+            "name": "creek classic 5350SE",
+            "price": 
+                {
+                "normal_price": "6322.7",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg",
+            "type": "int forstærkere",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 24,
+            "name": "creek destinyamp",
+            "price": 
+                {
+                "normal_price": "8925.2",
+                "discaont": "7352.8"
+                },
+            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/creek_destinyamp.jpg",
+            "type": "int forstærkere",
+            "brand": 
+                {
+                "name": "creek",
+                "manufacturer_link": "https://www.creekaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 25,
+            "name": "manley snapper",
+            "price": 
+                {
+                "normal_price": "1418.1",
+                "discaont": "1276.4"
+                },
+            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/manley_snappper.jpg",
+            "type": "int forstærkere",
+            "brand": 
+                {
+                "name": "manley",
+                "manufacturer_link": "https://www.manley.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 26,
+            "name": "manley stingray",
+            "price": 
+                {
+                "normal_price": "9910.2",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/Manley_Stingray.jpg",
+            "type": "int forstærkere",
+            "brand": 
+                {
+                "name": "manley",
+                "manufacturer_link": "https://www.manley.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 27,
+            "name": "pro-ject debut 3 bl",
+            "price": 
+                {
+                "normal_price": "9160.9",
+                "discaont": "8478.9"
+                },
+            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg",
+            "type": "pladespillere",
+            "brand": 
+                {
+                "name": "pro-ject",
+                "manufacturer_link": "https://www.project-audio.com/en/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 28,
+            "name": "pro-ject debut lll red 1",
+            "price": 
+                {
+                "normal_price": "66764",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_Debut_lll_red_1.jpg",
+            "type": "pladespillere",
+            "brand": 
+                {
+                "name": "pro-ject",
+                "manufacturer_link": "https://www.project-audio.com/en/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 29,
+            "name": "pro-ject debut lll yellow 1",
+            "price": 
+                {
+                "normal_price": "95980",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_Debut_lll_yellow_1.jpg",
+            "type": "pladespillere",
+            "brand": 
+                {
+                "name": "pro-ject",
+                "manufacturer_link": "https://www.project-audio.com/en/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 30,
+            "name": "pro-ject rpm 5",
+            "price": 
+                {
+                "normal_price": "16009",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_rpm_5.jpg",
+            "type": "pladespillere",
+            "brand": 
+                {
+                "name": "pro-ject",
+                "manufacturer_link": "https://www.project-audio.com/en/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 31,
+            "name": "pro-ject rpm 10",
+            "price": 
+                {
+                "normal_price": "5974.6",
+                "discaont": "5946.1"
+                },
+            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_rpm10.jpg",
+            "type": "pladespillere",
+            "brand": 
+                {
+                "name": "pro-ject",
+                "manufacturer_link": "https://www.project-audio.com/en/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+        },{
+            "id": 32,
+            "name": "jolida JD102b",
+            "price": 
+                {
+                "normal_price": "67081",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD102b.jpg",
+            "type": "røgforstærker",
+            "brand": 
+                {
+                "name": "jolida",
+                "manufacturer_link": "http://www.jolidaaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 33,
+            "name": "jolida JD202a",
+            "price": 
+                {
+                "normal_price": "861.2",
+                "discaont": "831.3"
+                },
+            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD202a.jpg",
+            "type": "røgforstærker",
+            "brand": 
+                {
+                "name": "jolida",
+                "manufacturer_link": "http://www.jolidaaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 34,
+            "name": "jolida JD300b",
+            "price": 
+                {
+                "normal_price": "297.23",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD300b.jpg",
+            "type": "røgforstærker",
+            "brand": 
+                {
+                "name": "jolida",
+                "manufacturer_link": "http://www.jolidaaudio.com/"
+                },
+            "instock": false,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 35,
+            "name": "jolida JD302b",
+            "price": 
+                {
+                "normal_price": "514.9",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD302b.jpg",
+            "type": "røgforstærker",
+            "brand": 
+                {
+                "name": "jolida",
+                "manufacturer_link": "http://www.jolidaaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        },{
+            "id": 36,
+            "name": "jolida JD502b",
+            "price": 
+                {
+                "normal_price": "122.35",
+                "discaont": ""
+                },
+            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD502b.jpg",
+            "type": "røgforstærker",
+            "brand": 
+                {
+                "name": "jolida",
+                "manufacturer_link": "http://www.jolidaaudio.com/"
+                },
+            "instock": true,
+            "description": 
+                {
+                    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
+                    "power_output": [["45W", "60W"], "10Hz"],
+                    "frequency_response": ["", "70kHz"],
+                    "total_harmonic_distortion": "0.08%",
+                    "damping_factor": "100",
+                    "input_sensitivity:MM": ["2.2mV", "47kOhn"],
+                    "input_sensitivity:MC": "",
+                    "signal_to_noise_ratio:MM/MC": ["83dB", ""],
+                    "input_sensitivity:High_level": ["200mV", "20kOhm"],
+                    "input_sensitivity:balanced_high_level": "",
+                    "signal_to_noise_ratio:high_level": "102dB(2V input)",
+                    "input_sensitivity:power_amp_direct_IN": "",
+                    "signal_to_noise_ratio:power_amp_direct_IN": ""
+                },
+            "free_warranty": "3 years",
+            "delivery":
+                {
+                "charge": "free",
+                "time": "1-5 working days"
+                },
+            "card_surcharges": "no"
+            
+        }
+    ],
+    "brands": [
+        {
+            "id": 1,
+            "name": "creek",
+            "logo": "/asset/img/logos/creek.png"
+        },{
+            "id": 2,
+            "name": "exposure",
+            "logo": "/asset/img/logos/exposure.png"
+        },{
+            "id": 3,
+            "name": "parasound",
+            "logo": "/asset/img/logos/parasound.png"
+        },{
+            "id": 4,
+            "name": "manley",
+            "logo": "/asset/img/logos/manley.png"
+        },{
+            "id": 5,
+            "name": "pro-ject",
+            "logo": "/asset/img/logos/pro-ject.png"
+        },{
+            "id": 6,
+            "name": "boesendorfer",
+            "logo": "/asset/img/logos/boesendorfer.png"
+        },{
+            "id": 7,
+            "name": "epos",
+            "logo": "/asset/img/logos/epos.png"
+        },{
+            "id": 8,
+            "name": "harbeth",
+            "logo": "/asset/img/logos/harbeth.png"
+        },{
+            "id": 9,
+            "name": "jolida",
+            "logo": "/asset/img/logos/jolida.png"
+        }
+    ]
+}
