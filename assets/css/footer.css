@@ -1,0 +1,67 @@
+footer{
+    display: grid;
+    grid-template-columns: auto 1fr 1fr auto;
+    gap: 2em;
+
+    background-color: goldenrod;
+    padding: 1em;
+}
+
+footer li{
+    list-style: none;
+}
+
+footer a{
+    color: inherit;
+}
+
+.footer__menu {
+    font-size: 0.7em;
+}
+
+.footer_links, .footer__payments, .footer__media{
+    display: flex;
+    gap: .25em;
+    
+    color: aliceblue;
+}
+
+.footer_links{
+    font-size: 0.8em;
+}
+
+.footer__media{
+    align-self: flex-start;
+    margin-top: .4em;
+}
+
+.footer__payments{
+    display: flex;
+    align-items: center;
+    justify-self: end;
+    gap: .5em;
+
+    height: 2em;
+    padding: .5em;
+}
+
+.footer__payments img{
+    height: 2em;
+}
+
+.footer__payments li:first-of-type img, 
+.footer__payments li:last-of-type img{
+    height: 4em;
+}
+
+.footer__media li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    overflow: hidden;
+    padding: .25em;
+    border: 1.5px solid aliceblue;
+    border-radius: 50%;
+    font-size: .7em;
+}
