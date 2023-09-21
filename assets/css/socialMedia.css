@@ -1,0 +1,30 @@
+.socialMedia ul{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+ 
+    height: 55vh;
+}
+
+.socialMedia li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100%;
+}
+
+.socialMedia__facebook{
+    background-image: url("/assets/img/background-img/background-img-front-page-small-1.jpg");
+}
+.socialMedia__blog{
+    background-image: url("/assets/img/background-img/background-img-front-page-small-2.jpg");
+}
+.socialMedia__twitter{
+    background-image: url("/assets/img/background-img/background-img-front-page-small-2.jpg");
+}
+
+.socialMedia i{
+    font-size: 25vh;
+    color: aliceblue;
+}
+
