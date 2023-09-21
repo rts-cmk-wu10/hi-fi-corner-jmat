@@ -3,6 +3,7 @@
 @import url("/assets/css/socialMedia.css");
 @import url("/assets/css/cardContainer.css");
 @import url("/assets/css/gallary.css");
+@import url("/assets/css/brands.css");
 
 
 * {
@@ -21,12 +22,6 @@ body{
 
 header{
     position: relative;
-}
-
-.brandsPage {
-    background-image: url(/assets/img/background-img/background-img-green.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .shopFontPage {
