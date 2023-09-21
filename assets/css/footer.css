@@ -3,7 +3,7 @@ footer{
     grid-template-columns: auto 1fr 1fr auto;
     gap: 2em;
 
-    background-color: goldenrod;
+    background-color: var(--color-brand);
     padding: 1em;
 }
 
@@ -17,13 +17,14 @@ footer a{
 
 .footer__menu {
     font-size: 0.7em;
+    color: var(--color-dark);
 }
 
 .footer_links, .footer__payments, .footer__media{
     display: flex;
     gap: .25em;
     
-    color: aliceblue;
+    color: var(--color-lightest);
 }
 
 .footer_links{
@@ -61,7 +62,7 @@ footer a{
 
     overflow: hidden;
     padding: .25em;
-    border: 1.5px solid aliceblue;
+    border: 1.5px solid var(--color-lightest);
     border-radius: 50%;
     font-size: .7em;
 }
