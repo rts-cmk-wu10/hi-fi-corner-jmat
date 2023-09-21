@@ -1,0 +1,35 @@
+.cardContainer{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    background-color:#111 ;
+    padding: 45px;
+    text-align: center;
+}
+.cardContainer__history{
+    color: #fff;
+    padding: 0 20px;
+    
+}
+.cardContainer__news{
+    color: #fff;
+    padding: 0 20px;
+}
+.cardContainer__shop{
+    color: #fff;
+    padding: 0 20px;
+}
+.cardContainer h1{
+    border: 1px solid #fff ;
+    color: #a09167;
+    display: inline-block;
+    font-size: 22px;
+    text-transform: uppercase;
+    margin-bottom: .5em;
+    padding: .5em 1em;
+    
+}
+.cardContainer p{
+    text-transform: uppercase;
+    font-size: 14px;
+    line-height: 1.2;
+}
