@@ -3,7 +3,7 @@
     background-position: center;
     background-repeat: no-repeat;
     
-    color: white;
+    color: var(--color-lightest);
     text-transform: uppercase;
     
     position: relative;
@@ -36,7 +36,7 @@
     
     padding: 1rem;
     height: 25vw;
-    border: 3px solid white;
+    border: 3px solid var(--color-lightest);
     
     font-size: 3rem;
     text-align: start;
