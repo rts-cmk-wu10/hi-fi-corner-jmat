@@ -1,0 +1,55 @@
+.brandsPage {
+    background-image: url(/assets/img/background-img/background-img-green.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.brands_heading{
+    color:#fff;
+    font-size: 1.8rem;
+    text-transform: uppercase;
+}
+.brands{
+    display: grid;
+    grid-template-columns: repeat(2 ,1fr);
+    border: 2rem solid #fff;
+
+    margin: 0 10%;
+}
+.brands__list{
+    color: antiquewhite;
+    background-color: black;
+    padding: 2rem;
+}
+.brands__list--tekst{
+    color: #a39161;
+    text-transform: uppercase;
+    margin-bottom: 2rem;
+}
+.brands_info{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    color: antiquewhite;
+
+    padding: 1.5rem;
+   background-image: url("/assets/img/background-img/background-img-front-page-small-1.jpg");
+}
+.brands__info--header{
+    color: #a39161;
+    text-transform:uppercase;
+}
+.brands__info--tekst{
+    text-transform: uppercase;
+}
+.brands__info--link{
+    color: #a39161;
+    text-transform: uppercase;
+}
+.brands__list--logos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1em;
+
+    list-style: none;
+}

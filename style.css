@@ -3,7 +3,24 @@
 @import url("/assets/css/socialMedia.css");
 @import url("/assets/css/cardContainer.css");
 @import url("/assets/css/gallary.css");
+@import url("/assets/css/brands.css");
+@import url("/assets/css/footer.css");
 
+:root{
+    --color-brand: #a39161;
+    --color-darkest: #000;
+    --color-dark: #111;
+    --color-mid: #999;
+    --color-light: #e1e1e1;
+    --color-lightest: #fff;
+
+    --color-blue: #0070b2;
+    --color-pink: #c0ab9f;
+
+    --tranparent-brand: #a39161aa;
+    --tranparent-darkest: #000000aa;
+    --tranparent-lightest: #ffffffaa;
+}
 * {
     margin: 0;
     padding: 0;
@@ -22,14 +39,8 @@ header{
     position: relative;
 }
 
-.brandsPage {
-    background-image: url(/assets/img/background-img/background-img-green.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 .shopFontPage {
-    background-color: black;
+    background-color: var(--color-darkest);
 }
 
 img {
