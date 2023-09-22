@@ -5,6 +5,7 @@
 
   max-width: 60%;
   margin: 0 auto;
+  padding-top: 10vw;
 }
 
 .gallery__item {  
@@ -17,7 +18,6 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  filter: sepia(70%);
 }
 
 .gallery__item a {
