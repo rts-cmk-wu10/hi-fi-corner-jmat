@@ -1420,39 +1420,39 @@
         {
             "id": 1,
             "name": "creek",
-            "logo": "/asset/img/logos/creek.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Creek_Audio_Logo.svg/2560px-Creek_Audio_Logo.svg.png"
         },{
             "id": 2,
             "name": "exposure",
-            "logo": "/asset/img/logos/exposure.png"
+            "logo": "https://images.squarespace-cdn.com/content/v1/5ecd8d866fe6734553560c78/1592930586472-35NY0F30QD2PAXOHIT9A/Exposure+Logo+Clean.png"
         },{
             "id": 3,
             "name": "parasound",
-            "logo": "/asset/img/logos/parasound.png"
+            "logo": "https://www.logotypes101.com/logos/518/BE6EFBB348B206CA20126D664840906B/parasound_-color.png"
         },{
             "id": 4,
             "name": "manley",
-            "logo": "/asset/img/logos/manley.png"
+            "logo": "https://findlogovector.com/wp-content/uploads/2022/04/manley-logo-vector-2022.png"
         },{
             "id": 5,
-            "name": "pro-ject",
-            "logo": "/asset/img/logos/pro-ject.png"
+            "name": "pro-ject", 
+            "logo": "https://www.gentec-intl.com/wp-content/uploads/2016/10/pro-ject-logo.png"
         },{
             "id": 6,
             "name": "boesendorfer",
-            "logo": "/asset/img/logos/boesendorfer.png"
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/B%C3%B6sendorfer.svg/602px-B%C3%B6sendorfer.svg.png?20110603131929"
         },{
             "id": 7,
             "name": "epos",
-            "logo": "/asset/img/logos/epos.png"
+            "logo": "https://cdn.contactcenterworld.com/images/company/epos-600px-logo.png"
         },{
             "id": 8,
             "name": "harbeth",
-            "logo": "/asset/img/logos/harbeth.png"
+            "logo": "https://images.squarespace-cdn.com/content/v1/5e9ae6aefbbac82692909731/1598837414650-JPMUPI7M6SJ9CMKU96KX/Harbeth-logo.png"
         },{
             "id": 9,
             "name": "jolida",
-            "logo": "/asset/img/logos/jolida.png"
+            "logo": "https://exceptionaudio.fr/site/wp-content/uploads/2022/06/Logo-Jolida.jpg"
         }
     ]
 }

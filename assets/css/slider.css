@@ -1,0 +1,67 @@
+#slider, .wrap, .slide-content {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.wrap {
+  position: relative;
+}
+
+.slide {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.slide1 {
+  background-image: url("/assets/img/background-img/background-img-primaluna.PNG")
+}
+
+.slide2 {
+  background-image: url("/assets/img/background-img/background-img-green.jpg")
+}
+
+.slide3 {
+  background-image: url("/assets/img/background-img/background-img-small-sennheiser.jpg")
+}
+
+.slide-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.slide-content span {
+	text-transform: uppercase;
+  font-size: 2.4vw;
+	color: #9b895c;
+}
+
+.arrow {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  margin-top: -35px;
+	font-size: 5vw;
+	color: #9b895c;
+}
+
+#arrow-left {
+  left: 0;
+  margin-left: 50px;
+}
+
+#arrow-right {
+  right: 0;
+  margin-right: 50px;
+}
+
+.caption {
+  position: absolute;
+  top: 25%;
+  left: 7%;
+}

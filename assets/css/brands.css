@@ -4,52 +4,62 @@
     background-size: cover;
 }
 
-.brands_heading{
-    color:#fff;
-    font-size: 1.8rem;
-    text-transform: uppercase;
-}
 .brands{
     display: grid;
     grid-template-columns: repeat(2 ,1fr);
-    border: 2rem solid #fff;
-
+    
+    border: 2rem solid var(--color-lightest);
     margin: 0 10%;
+
+    color: var(--color-lightest);
 }
+
 .brands__list{
-    color: antiquewhite;
-    background-color: black;
+    background-color: var(--color-darkest);
     padding: 2rem;
-}
-.brands__list--tekst{
-    color: #a39161;
     text-transform: uppercase;
+}
+
+.brands__list--tekst{
     margin-bottom: 2rem;
 }
-.brands_info{
+
+.brands__info{
     display: flex;
     flex-direction: column;
     gap: 2rem;
-    color: antiquewhite;
+    color: var(--color-lightest);
 
     padding: 1.5rem;
-   background-image: url("/assets/img/background-img/background-img-front-page-small-1.jpg");
+    background-image: url("/assets/img/background-img/background-img-front-page-small-1.jpg");
 }
-.brands__info--header{
-    color: #a39161;
-    text-transform:uppercase;
-}
-.brands__info--tekst{
+
+.brands__info--header, .brands__info--link, .brands__list--tekst{
+    color: var(--color-brand);
     text-transform: uppercase;
 }
-.brands__info--link{
-    color: #a39161;
-    text-transform: uppercase;
-}
+
 .brands__list--logos{
     display: flex;
     flex-wrap: wrap;
     gap: 1em;
 
     list-style: none;
+}
+
+.brands__list--logos li{
+    display: flex;
+    align-items: center;
+    height: 3em;
+    overflow: hidden;
+}
+
+.brands__list--logos li img {height: 3em; }
+
+.brands__list--logos li:nth-of-type(3) img, .brands__list--logos li:nth-of-type(9) img {height: 15em;}
+.brands__list--logos li:nth-of-type(4) img {height: 6em;}
+.brands__list--logos li:nth-of-type(6) img, .brands__list--logos li:nth-of-type(8) img  {height: 4em;}
+
+.brands__list--logos img{
+    filter: invert(100%) sepia(100%) saturate(0%) hue-rotate(58deg) brightness(106%) contrast(101%);
 }
