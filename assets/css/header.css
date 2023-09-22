@@ -10,6 +10,18 @@
     color: inherit;
 }
 
+.menu__top--item{
+    background-color: transparent;
+    color: inherit;
+    border: none;
+    display: flex;
+    gap: 1em;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    font-size: 1rem;
+}
+
 .menu__top{
     display: flex;
     align-items: center;
@@ -21,6 +33,27 @@
     
     list-style: none;
 }
+.menu__top--searchBar{
+    width: 15vw;
+
+    position: relative;
+}
+
+.menu__top--searchBar input{
+    width: 100%;
+    padding: .5em 1em;
+    border-radius: 2px;
+    border: none;
+}
+
+.menu__top--searchBar i{
+    padding: .4em;
+    color: var(--color-mid);
+
+    position: absolute;
+    right: 0;
+}
+
 
 .menu__top--button{
     background-image: linear-gradient(var(--tranparent-lightest) -100%, var(--color-blue));
