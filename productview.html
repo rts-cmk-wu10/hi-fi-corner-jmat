@@ -1,79 +1,135 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Product View</title>
 </head>
+
 <body>
-    <div class="wrapper">
-        <header>
-            <nav>
-                <ul class="submenu">
-                    <li class="menu_item menu__item--first"><a href="/"><i class="fa-light fa-location-dot"></i></a>
-                    </li>
-                    <li class="menu__item menu__item--first"><a href="/"><i class="fa-regular fa-phone"></i></a></li>
-                    <li class="menu__item menu__item--first"><a href="/"><i
-                                class="fa-sharp fa-regular fa-envelope"></i></a></li>
+    <main>
+        <img src="assets/img/background-img/img-banner-product.jpg" alt="banner" class="banner__image">
 
-                    <li class="menu__item menu__item--first"> <button><i
-                                class="fa-regular fa-envelope"></i>Subscribe</button></li>
-                </ul>
-                <nav class="menu">
-                    <li class="menu__item"> <a class="menu__link" href="index.html">HOME</a></li>
-                    <li class="menu__item"> <a class="menu__link" href="index.html">ABOUT US</a></li>
-                    <li class="menu__item"> <a class="menu__link" href="brands.html">BRANDS</a></li>
-                    <li class="menu__item"> <a class="menu__link" href="index.html">BLOG</a></li>
-                    <li class="menu__item"> <a class="menu__link" href="index.html">EVENTS</a></li>
-                    <li class="menu__item"> <a class="menu__link" href="shop_frontpage.html">SHOP</a></li>
-                    <li class="menu__item"> <a class="menu__link" href="index.html">CONTACT US</a></li>
-                </nav>
-            </nav>
-        </header>
-        <div class="main__container">
-            <div class="main">
-                <ul class="side__list">
-                    <li class="HOME"><a class="menu__link" href="">HOME</a></li>
-                    <li class="Category"><a class="menu__link" href="">Amplifiers</a></li>
-                    <li class="product"><a class="menu__link" href="">Marantz PM6006 UK Edition Integrated Amplifier</a></li>
-                </ul>
-                <div class="banner__image"><img src="assets/img/background-img/img-banner-product.jpg" alt="banner"></div>
+        <section class="productDetails">
 
-                <div class="flex__box">
-                    <div class="product__details">
-                        <h1>Marantz PM6006 UK Edition Integrated Amplifier</h1>
-                        <div class="product__details__firsttext">
-                            <p>See other Marantz products</p>
-                            <p><span>£469</span> <span>£429</span></p>
-                        </div>
-                        <div class="product__details__text">
-                            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim harum fugit laudantium odio,
-                                quidem quibusdam, saepe, quos possimus voluptatum totam sequi? Neque cumque repellendus
-                                itaque esse veritatis animi quam commodi.</p>
-                        </div>
-                        <div class="product__details__buttons">
-                            <p>Ask Question</p>
-                            <p>Part Exchange</p>
-                            <p>Pay buy Finance</p>
-                            <p>Seen a better price?</p>
-                        </div>
-    
-                        <div class="product__details__fieldbox">
-                            
-                        </div>
-    
-    
-    
-    
-                    </div>
-                </div>
-    
+            <h1 class="productDetails__name"></h1>
+            <p class="productDetails__price">See other Marantz products<span class="productDetails__price--normal"></span></p>
+            <p class="productDetails__text"></p>
+            <ul class="productDetails__buttons">
+                <li><button>ASK A QUESTION</button></li>
+                <li><button>PART EXCHANGE</button></li>
+                <li><button>PAY BY FINANCE</button></li>
+                <li><button>SEEN A BETTER PLACE</button></li>
+            </ul>
+
+            <section class="productDetails__additional">
+                <h2>Additional Information</h2>
+                <table class="productDetails__additinalTable">
+                    <tbody>
+                        <tr class="productDetails__additinalTable--row">
+                            <th>Manufacturer</th>
+                            <td></td>
+                        </tr>
+
+                        <tr class="productDetails__additinalTable--row">
+                            <th>Manufacturer Link</th>
+                            <td></td>
+                        </tr>
+
+                        <tr class="productDetails__additinalTable--row">
+                            <th>Free warrant</th>
+                            <td></td>
+                        </tr>
+
+                        <tr class="productDetails__additinalTable--row">
+                            <th>Delivery Charge</th>
+                            <td></td>
+                        </tr>
+
+                        <tr class="productDetails__additinalTable--row">
+                            <th>Delivery time</th>
+                            <td></td>
+                        </tr>
+
+                        <tr class="productDetails__additinalTable--row">
+                            <th>Card Surcharges</th>
+                            <td></td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </section>
 
 
-                <a href="">Call us about this product</a>
-            </div>
-        </div>
+            <section class="productDetails__description">
+                <h2>Additional Information</h2>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>Frequency response</td>
+                            <td></td>
+                        </tr>
 
-    
+                        <tr>
+                            <td>Total Harmonic Distortion</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Damping Factor</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Input sensitivity:MM</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Input sensitivity:MC</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Signal to Noise Ratio:MM / MC</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Input Sensitivity: High level</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Input Sensitivity: Balanced High level</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Signal to Noise Ratio: High level</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Input Sensitivity: Power Amp Direct IN</td>
+                            <td></td>
+                        </tr>
+
+                        <tr>
+                            <td>Signal to Noise ratio Power AMP Direct IN</td>
+                            <td></td>
+                        </tr>
+
+                    </tbody>
+                </table>
+            </section>
+        </section>
+
+        <a href="" class="callUs">Call us about this product</a>   
+
+    </main>
+
 </body>
+
 </html>
