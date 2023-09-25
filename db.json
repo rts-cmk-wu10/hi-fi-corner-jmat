@@ -8,14 +8,14 @@
                 "normal_price": "271.5",
                 "discaont": "220.6"
                 },
-            "image_src": "/asset/img/Produktbilleder/cd_afspillere/creek_classic_cd.jpg",
+            "image_src": "/Produktbilleder/cd_afspillere/creek_classic_cd.jpg",
             "type": "CD afspiller",
             "brand": 
                 {
                 "name": "creek",
                 "manufacturer_link": "https://www.creekaudio.com/"
                 },
-            "instock": false,
+            "instock": true,
             "description": 
                 {
                     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
@@ -44,17 +44,17 @@
             "name": "creek destiny cd",
             "price": 
                 {
-                "normal price": "993.4",
+                "normal_price": "993.4",
                 "discaont": ""
                 },
-            "image src": "/asset/img/Produktbilleder/cd_afspillere/creek_Destiny_CD.jpg",
+            "image_src": "/Produktbilleder/cd_afspillere/creek_Destiny_CD.jpg",
             "type": "CD afspiller",
             "brand": 
                 {
                 "name": "creek",
                 "manufacturer_link": "https://www.creekaudio.com/"
                 },
-            "instock": false,
+            "instock": true,
             "description": 
                 {
                     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
@@ -83,10 +83,10 @@
             "name": "creek evo cd",
             "price": 
                 {
-                "normal price": "893.3",
+                "normal_price": "893.3",
                 "discaont": ""
                 },
-            "image src": "/asset/img/Produktbilleder/cd_afspillere/creek_evo_cd.jpg",
+            "image_src": "/Produktbilleder/cd_afspillere/creek_evo_cd.jpg",
             "type": "CD afspiller",
             "brand": 
                 {
@@ -122,17 +122,17 @@
             "name": "exp 2010S cd",
             "price": 
                 {
-                "normal price": "374.8",
+                "normal_price": "374.8",
                 "discaont": "313.7"
                 },
-            "image src": "/asset/img/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif",
+            "image_src": "/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif",
             "type": "CD afspiller",
             "brand": 
                 {
                 "name": "exposure",
                 "manufacturer_link": "https://exposurehifi.com/"
                 },
-            "instock": false,
+            "instock": true,
             "description": 
                 {
                     "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nec ullamcorper sit amet risus. Arcu dui vivamus arcu felis bibendum ut tristique et. Adipiscing at in tellus integer.",
@@ -161,10 +161,10 @@
             "name": "creek classic",
             "price": 
                 {
-                "normal price": "102.4",
+                "normal_price": "102.4",
                 "discaont": "69.0"
                 },
-            "image src": "/asset/img/Produktbilleder/dvdafspillere/creek_classic.jpg",
+            "image_src": "/Produktbilleder/dvdafspillere/creek_classic.jpg",
             "type": "DVD afspiller",
             "brand": 
                 {
@@ -200,10 +200,10 @@
             "name": "exposure 2010S",
             "price": 
                 {
-                "normal price": "837.5",
+                "normal_price": "837.5",
                 "discaont": "724.9"
                 },
-            "image src": "/asset/img/Produktbilleder/dvdafspillere/exposure_2010S.jpg",
+            "image_src": "/Produktbilleder/dvdafspillere/exposure_2010S.jpg",
             "type": "DVD afspiller",
             "brand": 
                 {
@@ -239,10 +239,10 @@
             "name": "parasound d200",
             "price": 
                 {
-                "normal price": "656.2",
+                "normal_price": "656.2",
                 "discaont": ""
                 },
-            "image src": "/asset/img/Produktbilleder/dvdafspillere/parasound_d200.jpg",
+            "image_src": "/Produktbilleder/dvdafspillere/parasound_d200.jpg",
             "type": "DVD afspiller",
             "brand": 
                 {
@@ -278,10 +278,10 @@
             "name": "parasound halod3",
             "price": 
                 {
-                "normal price": "373.7",
+                "normal_price": "373.7",
                 "discaont": ""
                 },
-            "image src": "/asset/img/Produktbilleder/dvdafspillere/parasound_halod3.jpg",
+            "image_src": "/Produktbilleder/dvdafspillere/parasound_halod3.jpg",
             "type": "DVD afspiller",
             "brand": 
                 {
@@ -317,11 +317,11 @@
             "name": "manley mahi",
             "price": 
                 {
-                "normal price": "167.6",
+                "normal_price": "167.6",
                 "discaont": "126.3"
                 },
-            "image src": "/asset/img/Produktbilleder/effektforstaerkere/manley_mahi.jpg",
-            "type": "effektforskærkere",
+            "image_src": "/Produktbilleder/effektforstaerkere/manley_mahi.jpg",
+            "type": "effektforstærkere",
             "brand": 
                 {
                 "name": "manley",
@@ -356,11 +356,11 @@
             "name": "manley neoclassic 300b",
             "price": 
                 {
-                "normal price": "881.9",
+                "normal_price": "881.9",
                 "discaont": ""
                 },
-            "image src": "/asset/img/Produktbilleder/effektforstaerkere/manley_neoclassic300b.jpg",
-            "type": "effektforskærkere",
+            "image_src": "/Produktbilleder/effektforstaerkere/manley_neoclassic300b.jpg",
+            "type": "effektforstærkere",
             "brand": 
                 {
                 "name": "manley",
@@ -395,11 +395,11 @@
             "name": "manley snapper",
             "price": 
                 {
-                "normal price": "364.3",
+                "normal_price": "364.3",
                 "discaont": ""
                 },
-            "image src": "/asset/img/Produktbilleder/effektforstaerkere/manley_snapper.jpg",
-            "type": "effektforskærkere",
+            "image_src": "/Produktbilleder/effektforstaerkere/manley_snapper.jpg",
+            "type": "effektforstærkere",
             "brand": 
                 {
                 "name": "manley",
@@ -434,11 +434,11 @@
             "name": "parasound haloa 23",
             "price": 
                 {
-                "normal price": "839.7",
+                "normal_price": "839.7",
                 "discaont": ""
                 },
-            "image src": "/asset/img/Produktbilleder/effektforstaerkere/parasound_haloa23.jpg",
-            "type": "effektforskærkere",
+            "image_src": "/Produktbilleder/effektforstaerkere/parasound_haloa23.jpg",
+            "type": "effektforstærkere",
             "brand": 
                 {
                 "name": "parasound",
@@ -476,8 +476,8 @@
                 "normal_price": "345.0",
                 "discaont": "142.0"
                 },
-            "image_src": "/asset/img/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
-            "type": "forstærker",
+            "image_src": "/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg",
+            "type": "forstærkere",
             "brand": 
                 {
                 "name": "creek",
@@ -515,8 +515,8 @@
                 "normal_price": "884.0",
                 "discaont": "636.3"
                 },
-            "image_src": "/asset/img/Produktbilleder/forforstaerkere/parasound_classic7100.jpg",
-            "type": "forstærker",
+            "image_src": "/Produktbilleder/forforstaerkere/parasound_classic7100.jpg",
+            "type": "forstærkere",
             "brand": 
                 {
                 "name": "parasound",
@@ -554,8 +554,8 @@
                 "normal_price": "9962.3",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
-            "type": "forstærker",
+            "image_src": "/Produktbilleder/forforstaerkere/parasound_halop3.jpg",
+            "type": "forstærkere",
             "brand": 
                 {
                 "name": "parasound",
@@ -593,8 +593,8 @@
                 "normal_price": "1924.7",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/forforstaerkere/Project_prebox.jpg",
-            "type": "forstærker",
+            "image_src": "/Produktbilleder/forforstaerkere/Project_prebox.jpg",
+            "type": "forstærkere",
             "brand": 
                 {
                 "name": "pro-ject",
@@ -632,7 +632,7 @@
                 "normal_price": "4429.8",
                 "discaont": "3169.8"
                 },
-            "image_src": "/asset/img/Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif",
+            "image_src": "/Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif",
             "type": "højttalere",
             "brand": 
                 {
@@ -671,7 +671,7 @@
                 "normal_price": "93501",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/hojtalere/epos_m5.gif",
+            "image_src": "/Produktbilleder/hojtalere/epos_m5.gif",
             "type": "højttalere",
             "brand": 
                 {
@@ -710,7 +710,7 @@
                 "normal_price": "1635.7",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/hojtalere/harbeth_hl7es2.jpg",
+            "image_src": "/Produktbilleder/hojtalere/harbeth_hl7es2.jpg",
             "type": "højttalere",
             "brand": 
                 {
@@ -749,7 +749,7 @@
                 "normal_price": "8390.7",
                 "discaont": "8020.2"
                 },
-            "image_src": "/asset/img/Produktbilleder/hojtalere/harbeth_monitor30.jpg",
+            "image_src": "/Produktbilleder/hojtalere/harbeth_monitor30.jpg",
             "type": "højttalere",
             "brand": 
                 {
@@ -788,7 +788,7 @@
                 "normal_price": "63163",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/hojtalere/harbeth_p3es2.jpg",
+            "image_src": "/Produktbilleder/hojtalere/harbeth_p3es2.jpg",
             "type": "højttalere",
             "brand": 
                 {
@@ -827,7 +827,7 @@
                 "normal_price": "3228.9",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/creek_a50l.jpg",
+            "image_src": "/Produktbilleder/int_forstaerkere/creek_a50I.jpg",
             "type": "int forstærkere",
             "brand": 
                 {
@@ -867,7 +867,7 @@
                 "normal_price": "6322.7",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg",
+            "image_src": "/Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg",
             "type": "int forstærkere",
             "brand": 
                 {
@@ -907,7 +907,7 @@
                 "normal_price": "8925.2",
                 "discaont": "7352.8"
                 },
-            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/creek_destinyamp.jpg",
+            "image_src": "/Produktbilleder/int_forstaerkere/creek_destinyamp.jpg",
             "type": "int forstærkere",
             "brand": 
                 {
@@ -947,7 +947,7 @@
                 "normal_price": "1418.1",
                 "discaont": "1276.4"
                 },
-            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/manley_snappper.jpg",
+            "image_src": "/Produktbilleder/int_forstaerkere/manley_snapper.jpg",
             "type": "int forstærkere",
             "brand": 
                 {
@@ -987,7 +987,7 @@
                 "normal_price": "9910.2",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/int_forstaerkere/Manley_Stingray.jpg",
+            "image_src": "/Produktbilleder/int_forstaerkere/Manley_Stingray.jpg",
             "type": "int forstærkere",
             "brand": 
                 {
@@ -1027,7 +1027,7 @@
                 "normal_price": "9160.9",
                 "discaont": "8478.9"
                 },
-            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg",
+            "image_src": "/Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.jpg",
             "type": "pladespillere",
             "brand": 
                 {
@@ -1066,7 +1066,7 @@
                 "normal_price": "66764",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_Debut_lll_red_1.jpg",
+            "image_src": "/Produktbilleder/pladespillere/Pro_ject_Debut_III_red_1.jpg",
             "type": "pladespillere",
             "brand": 
                 {
@@ -1105,7 +1105,7 @@
                 "normal_price": "95980",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_Debut_lll_yellow_1.jpg",
+            "image_src": "/Produktbilleder/pladespillere/Pro_ject_Debut_III_yellow_1.jpg",
             "type": "pladespillere",
             "brand": 
                 {
@@ -1144,7 +1144,7 @@
                 "normal_price": "16009",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_rpm_5.jpg",
+            "image_src": "/Produktbilleder/pladespillere/Pro_ject_rpm_5.jpg",
             "type": "pladespillere",
             "brand": 
                 {
@@ -1183,7 +1183,7 @@
                 "normal_price": "5974.6",
                 "discaont": "5946.1"
                 },
-            "image_src": "/asset/img/Produktbilleder/pladespillere/Pro_ject_rpm10.jpg",
+            "image_src": "/Produktbilleder/pladespillere/Pro_ject_rpm10.jpg",
             "type": "pladespillere",
             "brand": 
                 {
@@ -1222,7 +1222,7 @@
                 "normal_price": "67081",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD102b.jpg",
+            "image_src": "/Produktbilleder/roer_forstaerkere/jolida_JD102b.jpg",
             "type": "røgforstærker",
             "brand": 
                 {
@@ -1262,7 +1262,7 @@
                 "normal_price": "861.2",
                 "discaont": "831.3"
                 },
-            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD202a.jpg",
+            "image_src": "/Produktbilleder/roer_forstaerkere/jolida_JD202a.jpg",
             "type": "røgforstærker",
             "brand": 
                 {
@@ -1302,7 +1302,7 @@
                 "normal_price": "297.23",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD300b.jpg",
+            "image_src": "/Produktbilleder/roer_forstaerkere/jolida_JD300b.jpg",
             "type": "røgforstærker",
             "brand": 
                 {
@@ -1342,7 +1342,7 @@
                 "normal_price": "514.9",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD302b.jpg",
+            "image_src": "/Produktbilleder/roer_forstaerkere/jolida_JD302b.jpg",
             "type": "røgforstærker",
             "brand": 
                 {
@@ -1382,7 +1382,7 @@
                 "normal_price": "122.35",
                 "discaont": ""
                 },
-            "image_src": "/asset/img/Produktbilleder/roer_forstaerkere/jolida_JD502b.jpg",
+            "image_src": "/Produktbilleder/roer_forstaerkere/jolida_JD502b.jpg",
             "type": "røgforstærker",
             "brand": 
                 {

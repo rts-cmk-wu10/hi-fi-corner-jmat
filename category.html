@@ -15,6 +15,9 @@
         crossorigin="anonymous" referrerpolicy="no-referrer"/>
 
     <!-- scripts -->
+    <script src="/assets/javaScript/category.js" defer></script>
+
+    <!-- font -->
     <script defer src="https://kit.fontawesome.com/c4c7200c26.js" crossorigin="anonymous"></script>
 
 </head>
@@ -26,7 +29,7 @@
         <ul class="menu__top">
             <label class="menu__top--searchBar">
                 <input type="search" placeholder="Search entire store here...">
-                <i class="fa-sharp fa-regular fa-magnifying-glass"></i>
+                <i class="fa-solid fa-magnifying-glass"></i>
             </label>
             <li><button class="menu__top--item"><i class="fa-solid fa-user-large"></i>account</button></li>
             <li><a class="menu__top--item" href="/"><i class="fa-solid fa-cart-shopping"></i>Cart</a></li>
@@ -49,118 +52,126 @@
 
     </header>
 
-    <main class="categoryGrid">
-        <h2 class="category__heading">amplifiers</h2>
-        <section class="sortBox">
-            <label>
-                sort by:
-                <select name="" id="">
-                    <option>Price</option>
+    <main>
+        <div class="categoryNarrator">category<span class="categoryNarrator__narrator"></span></div>
 
-                </select>
-            </label>
-            <label>
-                view as:
-                <input type="radio" name="view" value="gitter">
-                <input type="radio" name="view" value="lines">
-            </label>
-            <span class="sortBox__produktCount"></span>
-            <label>
-                show:
-                <select name="" id="">
-                    <option>300</option>
-                </select>
+        <section class="categoryGrid">
+        
+            <h2 class="category__heading">amplifiers</h2>
 
-            </label>
+            <section class="sortBox">
+                <label>
+                    sort by:
+                    <select name="" id="">
+                        <option>Price</option>
+
+                    </select>
+                </label>
+                <label>
+                    view as:
+                    <input type="radio" name="view" value="gitter">
+                    <input type="radio" name="view" value="lines">
+                </label>
+                <span class="sortBox__produktCount"></span>
+                <label>
+                    show:
+                    <select name="" id="">
+                        <option>300</option>
+                    </select>
+
+                </label>
+            </section>
+
+            <section class="categorys">
+                
+                <ul class="categorys__list">
+                    <li>Amplifiers
+                        <ul>
+                            <li>Integrated Amplifiers</li>
+                            <li>Power Amplifiers</li>
+                            <li>Preamplifiers</li>
+                        </ul>
+                    </li>
+                    <li>Speakers</li>
+                    <li>Turntables</li>
+                    <li>CD Players</li>
+                    <li>Streamers</li>
+                    <li>Cables</li>
+                    <li>Furniture</li>
+                    <li>Headphones</li>
+                    <li>Home Cinema</li>
+                    <li>Ceiling Speakers</li>
+                    <li>TV</li>
+                    <li>Vinyl</li>
+                    <li>Outlet - Save ££££ </li>
+
+                </ul>
+            </section>
+
+            <section class="filters">
+                <h2>shop by</h2>
+                <h3>Filter</h3>
+                <h3>Price</h3>
+                <ul>
+                    <li>£0.00 - £799.99 (10)</li>
+                    <li>£800.00 - £999.99(11)</li>
+                    <li>£1,000.00 - £1,499.99(13)</li>
+                    <li>£1,500.00 - £1,999.99(13)</li>
+                    <li>£2,000.00 - £2,999.99(20)</li>
+                    <li>£3,000.00 - £3,499.99(11)</li>
+                    <li>£3,500.00 - £4,999.99(17)</li>
+                    <li>£5,000.00 - £7,999.99(16)</li>
+                    <li>£8,000.00 - £11,999.99(9)</li>
+                    <li>£12,000.00 and above (13)</li>
+                </ul>
+                <h4>manufacturer</h4>
+                <ul>
+                    <li>Arcam (5)</li>
+                    <li>Astell and Kern (1)</li>
+                    <li>ATC (7)</li>
+                    <li>Audiolab (4)</li>
+                    <li>AVID (3)</li>
+                    <li>Chord Electronics (17)</li>
+                    <li>Classé (2)</li>
+                    <li>Denon (3)</li>
+                    <li>Devialet (6)</li>
+                    <li>EAT (2)</li>
+                    <li>Graham Slee (2)</li>
+                    <li>Linn (4)</li>
+                    <li>Marantz (5)</li>
+                    <li>Meridian (9)</li>
+                    <li>Naim (13)</li>
+                    <li>PrimaLuna (10)</li>
+                    <li>Primare (4)</li>
+                    <li>Quad (9)</li>
+                    <li>Rotel (8)</li>
+                    <li>Sennheiser (1)</li>
+                    <li>Sugden (11)</li>
+                    <li>Technics (1)</li>
+                    <li>Trinnov (1)</li>
+                    <li>Yamaha (5)</li>
+                </ul>
+
+            </section>
+
+            <section class="manufacts">
+                <h3>manufacturer</h3>
+                <ul>
+                    <li>arcam</li>
+                    <li>astell and kern</li>
+                    <li>atc</li>
+                    <li>audiolab</li>
+                    <li>avid</li>
+                    <li>chord electronics</li>
+                    <li>classé  </li>
+                    
+                </ul>
+            </section>
+
+
+            <ul class="produktList"></ul>
+
         </section>
-        <section class="categorys">
-            
-            <ul class="categorys__list">
-                <li>Amplifiers
-                    <ul>
-                        <li>Integrated Amplifiers</li>
-                        <li>Power Amplifiers</li>
-                         <li>Preamplifiers</li>
-                    </ul>
-                </li>
-                <li>Speakers</li>
-                <li>Turntables</li>
-                <li>CD Players</li>
-                <li>Streamers</li>
-                <li>Cables</li>
-                <li>Furniture</li>
-                <li>Headphones</li>
-                <li>Home Cinema</li>
-                <li>Ceiling Speakers</li>
-                <li>TV</li>
-                <li>Vinyl</li>
-                <li>Outlet - Save ££££ </li>
-
-            </ul>
-        </section>
-    <section class="filters">
-        <h2>shop by</h2>
-        <h3>Filter</h3>
-        <h3>Price</h3>
-        <ul>
-            <li>£0.00 - £799.99 (10)</li>
-            <li>£800.00 - £999.99(11)</li>
-            <li>£1,000.00 - £1,499.99(13)</li>
-            <li>£1,500.00 - £1,999.99(13)</li>
-            <li>£2,000.00 - £2,999.99(20)</li>
-            <li>£3,000.00 - £3,499.99(11)</li>
-            <li>£3,500.00 - £4,999.99(17)</li>
-            <li>£5,000.00 - £7,999.99(16)</li>
-            <li>£8,000.00 - £11,999.99(9)</li>
-            <li>£12,000.00 and above (13)</li>
-        </ul>
-        <h4>manufacturer</h4>
-        <ul>
-            <li>Arcam (5)</li>
-            <li>Astell and Kern (1)</li>
-            <li>ATC (7)</li>
-            <li>Audiolab (4)</li>
-            <li>AVID (3)</li>
-            <li>Chord Electronics (17)</li>
-            <li>Classé (2)</li>
-            <li>Denon (3)</li>
-            <li>Devialet (6)</li>
-            <li>EAT (2)</li>
-            <li>Graham Slee (2)</li>
-            <li>Linn (4)</li>
-            <li>Marantz (5)</li>
-            <li>Meridian (9)</li>
-            <li>Naim (13)</li>
-            <li>PrimaLuna (10)</li>
-            <li>Primare (4)</li>
-            <li>Quad (9)</li>
-            <li>Rotel (8)</li>
-            <li>Sennheiser (1)</li>
-            <li>Sugden (11)</li>
-            <li>Technics (1)</li>
-            <li>Trinnov (1)</li>
-            <li>Yamaha (5)</li>
-        </ul>
-
-    </section>
-    <section class="manufacts">
-        <h3>manufacturer</h3>
-        <ul>
-            <li>arcam</li>
-            <li>astell and kern</li>
-            <li>atc</li>
-            <li>audiolab</li>
-            <li>avid</li>
-            <li>chord electronics</li>
-            <li>classé  </li>
-            
-        </ul>
-    </section>
-
-
-<section class="produktList"></section>
-
-
 
     </main>
 
