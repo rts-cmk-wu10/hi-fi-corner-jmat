@@ -5,6 +5,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Product View</title>
+
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- font-awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
+
+    <!-- script -->
+    <script src="/assets/javaScript/produkt.js" defer></script>
+
+    <!-- font -->
+    <script defer src="https://kit.fontawesome.com/c4c7200c26.js" crossorigin="anonymous"></script>
+
 </head>
 
 <body>
@@ -13,9 +26,7 @@
 
         <section class="productDetails">
 
-            <h1 class="productDetails__name"></h1>
-            <p class="productDetails__price">See other Marantz products<span class="productDetails__price--normal"></span></p>
-            <p class="productDetails__text"></p>
+            <section class="productDetails__box"></section>
             <ul class="productDetails__buttons">
                 <li><button>ASK A QUESTION</button></li>
                 <li><button>PART EXCHANGE</button></li>
@@ -25,104 +36,13 @@
 
             <section class="productDetails__additional">
                 <h2>Additional Information</h2>
-                <table class="productDetails__additinalTable">
-                    <tbody>
-                        <tr class="productDetails__additinalTable--row">
-                            <th>Manufacturer</th>
-                            <td></td>
-                        </tr>
-
-                        <tr class="productDetails__additinalTable--row">
-                            <th>Manufacturer Link</th>
-                            <td></td>
-                        </tr>
-
-                        <tr class="productDetails__additinalTable--row">
-                            <th>Free warrant</th>
-                            <td></td>
-                        </tr>
-
-                        <tr class="productDetails__additinalTable--row">
-                            <th>Delivery Charge</th>
-                            <td></td>
-                        </tr>
-
-                        <tr class="productDetails__additinalTable--row">
-                            <th>Delivery time</th>
-                            <td></td>
-                        </tr>
-
-                        <tr class="productDetails__additinalTable--row">
-                            <th>Card Surcharges</th>
-                            <td></td>
-                        </tr>
-
-                    </tbody>
-                </table>
+                <table class="productDetails__additinalTable"></table>
             </section>
 
 
             <section class="productDetails__description">
-                <h2>Additional Information</h2>
-                <table>
-                    <tbody>
-                        <tr>
-                            <td>Frequency response</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Total Harmonic Distortion</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Damping Factor</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Input sensitivity:MM</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Input sensitivity:MC</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Signal to Noise Ratio:MM / MC</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Input Sensitivity: High level</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Input Sensitivity: Balanced High level</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Signal to Noise Ratio: High level</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Input Sensitivity: Power Amp Direct IN</td>
-                            <td></td>
-                        </tr>
-
-                        <tr>
-                            <td>Signal to Noise ratio Power AMP Direct IN</td>
-                            <td></td>
-                        </tr>
-
-                    </tbody>
-                </table>
+                <h2>Description</h2>
+                <table class="productDetails__descriptionTable"></table>
             </section>
         </section>
 
