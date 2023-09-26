@@ -3,6 +3,7 @@ const URL = new URLSearchParams(window.location.search)
 const BOX = document.querySelector(".productDetails__box")
 const ADDITINAL_TABEL = document.querySelector(".productDetails__additinalTable")
 const DESCRIPTION_TABEL = document.querySelector(".productDetails__descriptionTable")
+const IMG = document.querySelector(".productDetails__image")
 
 fetch("http://localhost:3000/produkt")
     .then(function(response) {
@@ -14,6 +15,9 @@ fetch("http://localhost:3000/produkt")
         data.forEach(function(produkt) {
             if (produkt.id.toString() === URL.get("produkt")) 
                 console.log(produkt);
+
+                IMG.src = produkt.image_src
+                IMG.alt = produkt.name
 
                 BOX.innerHTML = 
                     `<h1 class="productDetails__name">${produkt.name.charAt(0).toUpperCase() + produkt.name.slice(1)}</h1>
