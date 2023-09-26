@@ -10,10 +10,9 @@ fetch("http://localhost:3000/brands")
         console.log(data);
 
         data.forEach(function(element) {
-            console.log(element);
-            console.log(element.logo.includes(".svg"));
+            // console.log(element);
             const LI = document.createElement("li")
-            LI.innerHTML = `<img src="${element.logo}" alt="${element.name}">`
+            LI.innerHTML = `<a href="/category.html?brand=${element.name}"><img src="${element.logo}" alt="${element.name}"></a>`
             UL.append(LI)
         })
     })
