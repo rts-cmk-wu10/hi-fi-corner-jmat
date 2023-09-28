@@ -114,5 +114,53 @@
 }
 
 .produktList{
-    grid-area: 3/2/6/3;
+    grid-area: 3/2/7/3;
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(9, 1fr);
+    gap: 1em;
+
+    list-style: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.produktList a {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1em;
+
+    height: 100%;
+
+    color: var(--color-darkest);
+    text-decoration: none;
+}
+
+.produktList img{
+    height: 10em;
+    object-fit: contain;
+}
+
+.produktList__element--price{
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+
+    color: var(--color-brand);
+}
+
+.produktList__element--normalPrice{
+    color: var(--color-mid);
+    text-decoration: line-through;
+}
+
+.produktList button{
+    padding: .5em 1em;
+    background-color: var(--color-brand);
+    border: none;
+
+    color: var(--color-lightest);
+    text-transform: uppercase;
 }
