@@ -1,15 +1,15 @@
 const URL = new URLSearchParams(window.location.search)
 
+const NARRATOR = document.querySelector(".categoryNarrator__narrator")
+
 if (URL.get("category") !== null) { 
     var category = URL.get("category").replace("_", " ")
 
-    const NARRATOR = document.querySelector(".categoryNarrator__narrator")
     NARRATOR.innerHTML = ` / ${category}`
 }
 else if (URL.get("brand") !== null) {
     var brand = URL.get("brand")
 
-    const NARRATOR = document.querySelector(".categoryNarrator__narrator")
     NARRATOR.innerHTML = ` / ${brand}`
 }
 
