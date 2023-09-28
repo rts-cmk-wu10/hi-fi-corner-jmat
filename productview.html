@@ -20,11 +20,41 @@
 
 </head>
 
-<body>
-    <main>
-        <img src="assets/img/background-img/img-banner-product.jpg" alt="banner" class="banner__image">
+<body class="productView">
 
+    <header class="menu">
+
+        <ul class="menu__top">
+            <label class="menu__top--searchBar">
+                <input type="search" placeholder="Search entire store here...">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </label>
+            <li><button class="menu__top--item"><i class="fa-solid fa-user-large"></i>account</button></li>
+            <li><a class="menu__top--item" href="/"><i class="fa-solid fa-cart-shopping"></i>Cart</a></li>
+            <li><a class="menu__top--item" href="/"><i class="fa-solid fa-location-dot"></i></a></li>
+            <li><a class="menu__top--item" href="/"><i class="fa-solid fa-phone"></i></a></li>
+            <li><a class="menu__top--item" href="/"><i class="fa-sharp fa-regular fa-envelope"></i></a></li>
+            <li><button class="menu__top--button"><i class="fa-regular fa-envelope"></i><span>|</span>subscribe</button>
+            </li>
+        </ul>
+
+        <nav class="menu__nav">
+            <li> <a class="menu__nav--link" href="index.html">home</a></li>
+            <li> <a class="menu__nav--link" href="/">about us</a></li>
+            <li> <a class="menu__nav--link" href="brands.html">brands</a></li>
+            <li> <a class="menu__nav--link" href="/">blog</a></li>
+            <li> <a class="menu__nav--link" href="/">events</a></li>
+            <li> <a class="menu__nav--link activPage" href="shop_frontpage.html">shop</a></li>
+            <li"> <a class="menu__nav--link" href="/">contact us</a></li>
+        </nav>
+
+    </header>
+
+    <main>
+        
         <section class="productDetails">
+
+            <img src="assets/img/background-img/img-banner-product.jpg" alt="banner" class="productDetails__banner">
 
             <img src="" alt="" class="productDetails__image">
 
@@ -46,11 +76,42 @@
                 <h2>Description</h2>
                 <table class="productDetails__descriptionTable"></table>
             </section>
+
+            <a href="" class="productDetails__callUs"><i class="fa-solid fa-phone"></i> Call us about this product</a>   
+
         </section>
 
-        <a href="" class="callUs">Call us about this product</a>   
-
     </main>
+
+    <footer>
+
+        <ul class="footer__menu">
+            <li>hi-fi corner</li>
+            <li>edinburgh 2 joppa road eh15 2eu</li>
+            <li>falkirk 44 cow wynd fk1 1pu</li>
+        </ul>
+
+        <div class="footer_links">
+            <a href="index.html">returns & refunds</a>|<a href="index.html">Privacy Policy</a>
+        </div>
+
+        <ul class="footer__payments">
+            <li><img src="/assets/img/logos/worldpay.ico" alt="worldpay"></li>
+            <li><img src="/assets/img/logos/visa.ico" alt="visa"></li>
+            <li><img src="/assets/img/logos/mastercard.ico" alt="mastercard"></li>
+            <li><img src="/assets/img/logos/maestro.ico" alt="maestro"></li>
+            <li><img src="/assets/img/logos/jcb.ico" alt="jcb"></li>
+            <li><img src="/assets/img/logos/paypal.ico" alt="paypal"></li>
+        </ul>
+
+        <ul class="footer__media">
+            <li><i class="fa-brands fa-facebook"></i></li>
+            <li><i class="fa-brands fa-youtube"></i></li>
+            <li><i class="fa-brands fa-twitter"></i></li>
+            <li><i class="fa-brands fa-instagram"></i></li>
+        </ul>
+
+    </footer>
 
 </body>
 

@@ -25,7 +25,7 @@ fetch(`http://localhost:3000/produkt`)
         data.forEach(function(produkt) {
             if (produkt.type === category) makeProdukt()
             else if (produkt.brand.name === brand) makeProdukt()
-            else if (produkt.type === null && produkt.brand.name === null) makeProdukt()
+            else if (category === undefined && brand === undefined) makeProdukt()
 
             function makeProdukt() {
                 const PRODUKT = document.createElement("li")
@@ -35,7 +35,7 @@ fetch(`http://localhost:3000/produkt`)
                 `<a href="/productview.html?produkt=${produkt.id}">
                     <img src="${produkt.image_src}" alt="${produkt.name}">
                     <p class="produktList__element--name">${produkt.name}</p>
-                    ${produkt.price.discaont !== "" ? `<p class="produktList__element--price><span class="produktList__element--normalPrice>${produkt.price.normal_price}</span> ${produkt.price.discaont}</p>` : `<p class="produktList__element--price>${produkt.price.normal_price}</p>`}
+                    ${produkt.price.discaont !== "" ? `<p class="produktList__element--price"><span class="produktList__element--normalPrice">£${produkt.price.normal_price}</span> £${produkt.price.discaont}</p>` : `<p class="produktList__element--price">£${produkt.price.normal_price}</p>`}
                     ${produkt.instock === true ? "<button>add to cart</button>" : "" }
                 </a>`   
 
