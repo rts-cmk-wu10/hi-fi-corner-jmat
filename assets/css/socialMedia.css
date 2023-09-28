@@ -14,8 +14,25 @@
     display: flex;
     align-items: center;
     justify-content: center;
-
     height: 100%;
+}
+
+.socialMedia li a {
+    text-decoration: none;
+    color: #fff;
+    transition: .6s;
+}
+
+.socialMedia__facebook a:hover {
+    color: #4267B2;
+}
+
+.socialMedia__blog a:hover {
+    color: #ff4200;
+}
+
+.socialMedia__twitter a:hover {
+    color: #00acee;
 }
 
 .socialMedia__facebook{background-image: url("/assets/img/background-img/background-img-home.1.jpg");}
