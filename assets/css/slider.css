@@ -1,4 +1,6 @@
-#slider, .wrap, .slide-content {
+#slider, 
+.wrap, 
+.slide-content {
   margin: 0;
   padding: 0;
   width: 100%;
@@ -16,17 +18,9 @@
   background-repeat: no-repeat;
 }
 
-.slide1 {
-  background-image: url("/assets/img/background-img/background-img-primaluna.PNG")
-}
-
-.slide2 {
-  background-image: url("/assets/img/background-img/background-img-frontpage-slide-1.jpg")
-}
-
-.slide3 {
-  background-image: url("/assets/img/background-img/background-img-backup.jpg")
-}
+.slide1 {background-image: url("/assets/img/background-img/background-img-primaluna.PNG")}
+.slide2 {background-image: url("/assets/img/background-img/background-img-frontpage-slide-1.jpg")}
+.slide3 {background-image: url("/assets/img/background-img/background-img-backup.jpg")}
 
 .slide-content {
   display: flex;
@@ -47,7 +41,7 @@
   top: 50%;
   margin-top: -35px;
 	font-size: 5vw;
-	color: #9b895c;
+	color: var(--color-pink);
 }
 
 #arrow-left {
