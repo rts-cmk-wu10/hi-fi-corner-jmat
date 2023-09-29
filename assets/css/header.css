@@ -46,8 +46,10 @@
     border: none;
 }
 
-.menu__top--searchBar i{
+.menu__top--searchBar button{
     padding: .4em;
+    background-color: transparent;
+    border: none;
     color: var(--color-mid);
 
     position: absolute;

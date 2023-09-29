@@ -1,6 +1,7 @@
 const URL = new URLSearchParams(window.location.search)
 
 const NARRATOR = document.querySelector(".categoryNarrator__narrator")
+const SEARCH = document.querySelector(".menu__top--searchBar")
 
 if (URL.get("category") !== null) { 
     var category = URL.get("category").replace("_", " ")
@@ -23,6 +24,16 @@ fetch(`http://localhost:3000/produkt`)
     })
     .then(function(data) {
         data.forEach(function(produkt) {
+
+            SEARCH.addEventListener("submit", submitHandler)
+
+            function submitHandler(event) {
+                event.preventDefault()
+                NARRATOR.innerHTML = ` / ${event.target.search.value}`
+                if (produkt.id === 1) LIST.innerHTML = "" 
+                if (produkt.name.includes(event.target.search.value.toLowerCase())) makeProdukt()
+            }
+
             if (produkt.type === category) makeProdukt()
             else if (produkt.brand.name === brand) makeProdukt()
             else if (category === undefined && brand === undefined) makeProdukt()
