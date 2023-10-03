@@ -32,6 +32,7 @@ footer a{
 .footer__menu {
     font-size: 0.7em;
     color: var(--color-dark);
+    text-transform: capitalize;
 }
 
 .footer_links, .footer__payments, .footer__media{
